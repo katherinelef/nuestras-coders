@@ -1,5 +1,21 @@
+h1 {
+  font-family: 'Cutive', serif;
+  font-size: 10px;
+  color: #6C6563;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+hr {
+  width: 40px;
+  height: 3px;
+  margin-left: 20px;
+  background-color: #6C6563;
+
+}
+
 section {
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
   width: 425px;
   height: 285px;
   margin: 10px 10px 10px;
@@ -7,7 +23,7 @@ section {
   }
 
   div {
-  outline: 1px solid blue;
+  /*outline: 1px solid blue;*/
   width: 120px;
   height: 120px;
   margin: 10px 10px 10px 10px;
@@ -16,7 +32,7 @@ section {
 
 img {
 
-  outline: 1px solid yellow;
+  /*outline: 1px solid yellow;*/
   width: 120px;
   height: 120px;
   position: absolute;
@@ -24,9 +40,17 @@ img {
 }
 
 .nombres {
-  outline: 1px solid green;
-  width: 100px;
-  height: 100px;
+  /*outline: 1px solid green;*/
+  width: 75px;
+  height: 10px;
   position: absolute;
-  
+  font-family: 'Cutive', serif;
+  font-size: 7.5px;
+  color:white;
+  font-weight: bold;
+  padding-left:35px;
+  padding-top: 90px;
+}
+
+
 }
